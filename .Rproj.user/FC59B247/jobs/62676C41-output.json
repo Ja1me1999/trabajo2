@@ -9,4 +9,4 @@
 [1,"\r  |                                                                            \r  |......................................................................| 100%\r\n  ordinary text without R code\r\n\r\n\r\noutput file: preparacion.knit.md\r\n\r\n"]
 [1,"pandoc \n  to: html\n  output-file: preparacion.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  title: Trabajo2\n  editor: visual\n  bibliography:\n    - movilidad.bib\n  \n"]
 [1,"\u001B[33mWARNING (C:/Users/jaime/AppData/Local/Programs/Quarto/share/filters/main.lua:7901) Unable to parse table from raw html block: skipping.\r\n\u001B[39m\u001B[33mWARNING (C:/Users/jaime/AppData/Local/Programs/Quarto/share/filters/main.lua:7901) Unable to parse table from raw html block: skipping.\r\n\u001B[39m"]
-[1,"Output created: preparacion.html\n\nWatching files for changes\nBrowse at http://localhost:5618/\n"]
+[1,"Output created: preparacion.html\n\nWatching files for changes\nBrowse at http://localhost:6924/\n"]

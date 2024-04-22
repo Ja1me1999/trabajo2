@@ -1,9 +1,0 @@
-"0","ggplot(tabla, aes(x = prom_ing_educ, y = educa)) +
-  geom_col(fill = ""skyblue"") +
-  geom_text(aes(label = prom_ing_educ), hjust = 1.5, size = 3, color = ""black"") +
-  labs(x = ""Promedio de Sueldos"", y = ""Nivel Educativo"") +
-  theme_minimal()
-"
-"2","Error in ggplot(tabla, aes(x = prom_ing_educ, y = educa)) : 
-  objeto 'tabla' no encontrado
-"
