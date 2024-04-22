@@ -1,0 +1,11 @@
+
+
+
+# Carga de paquetes ------------------------------------------------------------
+
+pacman::p_load(haven, tidyverse, sjmisc, sjPlot, ggplot2)
+
+# Carga de datos ---------------------------------------------------------------
+
+data <- read_dta("Input/casen2006.dta")
+View(data)
